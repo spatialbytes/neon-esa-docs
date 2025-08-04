@@ -1,11 +1,16 @@
 # Reflectance Pre-processing: Masking Out Bad Weather Data in GEE
 
-!!! info "Tutorial Information"
-    **Authors:** Bridget M. Hass, John Musinsky
-    **Contributors:** Tristan Goulden
-    **Estimated Time:** 30 minutes
-    **Topics:** hyperspectral, remote-sensing
-    **Data Product:** DP3.30006.001
+!!! info ""
+
+    === "📋 Tutorial Details"
+        - **Duration:** 30 minutes
+        - **Level:** Intermediate
+        - **Authors:** Bridget M. Hass, John Musinsky
+        - **Contributors:** Tristan Goulden
+
+    === "🏷️ Topics & Data"
+        - **Topics:** hyperspectral, remote-sensing
+        - **Data Product:** DP3.30006.001
 
 ## Introduction
 

@@ -1,11 +1,17 @@
 # Plot Spectral Signatures of AOP Reflectance Data in GEE
 
-!!! info "Tutorial Information"
-    **Authors:** Bridget Hass, John Musinsky
-    **Contributors:** Tristan Goulden, Lukas Straube
-    **Estimated Time:** 30 minutes
-    **Topics:** hyperspectral, remote-sensing, reflectance
-    **Data Products:** DP3.30006.001, DP3.30006.002
+!!! info ""
+
+    === "📋 Tutorial Details"
+        - **Duration:** 30 minutes
+        - **Level:** Intermediate
+        - **Authors:** Bridget Hass, John Musinsky
+        - **Contributors:** Tristan Goulden, Lukas Straube
+
+    === "🏷️ Topics & Data"
+        - **Topics:** lidar, hyperspectral, camera, remote-sensing
+        - **Data Products:** DP3.30006.001, DP3.30006.002, DP3.30010.001, DP3.30015.001, DP3.30024.001
+
 
 ## Objectives
 
