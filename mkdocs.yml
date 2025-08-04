@@ -152,7 +152,6 @@ nav:
       - Earth Engine Catalog: gee/gee_catalog.md
       - Earth Engine Community Catalog: gee/gee_community_catalog.md
   - Tutorials & Examples:
-      - Introduction to AOP Hyperspectral Data in GEE: tutorials/intro-aop-sdr-data.md
-      - Function for Visualizing AOP Image Collections in GEE: tutorials/aop-sdr-viz-functions.md
-      - Plot spectral signatures of AOP SDR data in GEE: tutorials/plot-spectra.md
-      - Exploratory Analysis of Interannual AOP Data in GEE: tutorials/interannual-change-analysis.md
+      - Introduction to AOP Public Datasets in Google Earth Engine (GEE): tutorials/01_intro_to_neon_aop_gee_datasets.md
+      - Reflectance pre-processing masking out bad weather data in GEE: tutorials/02_neon_reflectance_weather_qa.md
+      - Plot spectral signatures of AOP Reflectance data in GEE: tutorials/03_plot_spectral_signature.md
