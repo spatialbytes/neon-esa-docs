@@ -25,8 +25,58 @@ This file was automatically generated - do not edit
     .workshop-link:hover {
         text-decoration: underline;
     }
+
+    /* Floating Survey Button */
+    .floating-survey-button {
+        position: fixed;
+        bottom: 30px;
+        right: 30px;
+        background-color: #000 !important;
+        color: #fff !important;
+        padding: 10px 20px;
+        border-radius: 50px;
+        display: flex;
+        align-items: center;
+        text-decoration: none !important;
+        font-weight: bold;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        transition: background-color 0.3s;
+        cursor: pointer;
+        z-index: 1000;
+    }
+
+    .floating-survey-button:hover {
+        background-color: #333 !important;
+        color: #fff !important;
+        text-decoration: none !important;
+    }
+
+    .floating-survey-button:visited {
+        color: #fff !important;
+    }
+
+    .floating-survey-button:link {
+        color: #fff !important;
+    }
+
+    .floating-survey-button:active {
+        color: #fff !important;
+    }
+
+    /* Ensure the span inside also has white text */
+    .floating-survey-button span {
+        color: #fff !important;
+    }
+
+    /* Optional: Add an icon placeholder if you want to add one later */
+    .floating-survey-button::before {
+        content: "📋";
+        margin-right: 8px;
+        font-size: 18px;
+    }
 </style>
 {% endblock %}
+
 {% block announce %}
 <div class="content-container">
     <div class="workshop-content">
@@ -37,6 +87,18 @@ This file was automatically generated - do not edit
     </div>
 </div>
 {% endblock %}
+
+{% block content %}
+{{ super() }}
+
+<!-- Floating Survey Button -->
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfYKQAgxGdDpIfPU96YdgCc2HBuh2oCAF9_Zz4ywrzZfi4gJg/viewform"
+    class="floating-survey-button" target="_blank" rel="noopener noreferrer">
+    <span>Take the Survey</span>
+</a>
+
+{% endblock %}
+
 {% block scripts %}
 {{ super() }}
 <script src="{{ 'assets/javascripts/custom.a678ee80.min.js' | url }}"></script>
