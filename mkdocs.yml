@@ -146,7 +146,6 @@ nav:
       - NEON Overview: background/neon_background.md
       - AOP Overview: background/aop_background.md
       - Earth Engine Overview: gee/gee_overview.md
-      - NEON AOP Data in GEE: background/neon_aop_gee_data.md
   - Setup:
       - Getting Started: setup/getting_started.md
   - Google Earth Engine Resources:
@@ -156,3 +155,4 @@ nav:
       - Introduction to AOP Public Datasets in Google Earth Engine (GEE): tutorials/01_intro_to_neon_aop_gee_datasets.md
       - Reflectance pre-processing masking out bad weather data in GEE: tutorials/02_neon_reflectance_weather_qa.md
       - Plot spectral signatures of AOP Reflectance data in GEE: tutorials/03_plot_spectral_signature.md
+      - Spectral Unmixing with NEON Hyperspectral Data: tutorials/04_spectral_unmixing.md

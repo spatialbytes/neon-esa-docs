@@ -21,7 +21,7 @@ NEON delivers data products from three main sub-systems called the **Airborne Ob
 Airborne remote sensing surveys are conducted over NEON field sites during peak greenness and provide quantitative information on land cover and changes to ecological structure and chemistry, including the presence and effects of invasive species. The surveys are supported by the NEON Airborne Observation Platform (AOP), a suite of earth observation instruments installed into a Twin Otter aircraft designed to collect high-resolution remote sensing data at low altitude. AOP was designed to collect regional-scale landscape information at the NEON field sites. The AOP maps areas where NEON's observational and instrumented sampling is occurring and allows relationships to be drawn between NEON's detailed in-situ observations to the broader environmental and ecological conditions.
 
 !!! info "Learn More"
-    Please see the next section [Airborne Observation Platform](aop.md) for more details on the AOP including a summary of the data products provided.
+    Please see the next section [Airborne Observation Platform](aop_background.md) for more details on the AOP including a summary of the data products provided.
 
 ## NEON Field Data
 
