@@ -19,6 +19,9 @@ Once your EE account is set up, you will need to create a Google Cloud project. 
 ### 3. Hardware Requirements
 Following along with the exercises requires a laptop or tablet with a stable internet connection.
 
+### 4. Code Repository
+Once we have the earth engine account set up, you can [click on this link](https://code.earthengine.google.com/?accept_repo=users/neon-aop-gee/aop-intro) to accept the Earth Engine repository which contains the codes for todays class
+
 ## Next Steps
 
 Once you've completed the setup above, you'll be ready to participate in the workshop exercises. Make sure to test your Google Earth Engine access by logging into the [Earth Engine Code Editor](https://code.earthengine.google.com/) before the workshop begins.
