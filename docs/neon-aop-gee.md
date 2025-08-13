@@ -5,7 +5,7 @@
 
 ## :material-satellite-variant: About This Repository
 
-This repository offers hands-on tutorials to help researchers, students, and practitioners work with **NEON Airborne Observation Platform (AOP)** data products in Google Earth Engine. Our tutorials cover data generated from three primary sensors:
+This workshop offers hands-on tutorials to help researchers, students, and practitioners work with **NEON Airborne Observation Platform (AOP)** data products in Google Earth Engine. You can find the [slide deck here](https://docs.google.com/presentation/d/1w6QsyhGLi_xK7JLURXgmrrFetWC7LG9EP7WOXqtTEVs/edit?usp=sharing). Our tutorials cover data generated from three primary sensors:
 
 <div class="grid cards" markdown>
 

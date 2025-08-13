@@ -30,6 +30,7 @@ jobs:
             "mkdocs-git-authors-plugin" \
             "mkdocs-minify-plugin>=0.3" \
             "mkdocs-rss-plugin>=1.2" \
+            "mkdocs-open-in-new-tab" \
             "mkdocs-redirects>=1.0" \
             "pillow<10"
       - name: Deploy documentation

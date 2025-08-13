@@ -82,11 +82,12 @@ extra:
 
 plugins:
   - search
-  # - git-revision-date-localized:
-  #     enable_creation_date: true
-  #     type: timeago
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: timeago
   - minify:
       minify_html: true
+  - open-in-new-tab
 
 # Extensions
 markdown_extensions:
