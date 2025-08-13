@@ -44,15 +44,6 @@ This workshop offers hands-on tutorials to help researchers, students, and pract
     - :material-account-group: Community contributions are welcome
     - :material-bug: Report issues via GitHub Issues
 
-### :material-scale-balance: Open Science Commitment
-
-We believe in making scientific tools and knowledge accessible to all. This repository reflects our commitment to:
-
-- **Transparency** in data processing workflows
-- **Reproducible** research methodologies
-- **Community-driven** development and improvement
-- **Educational** resources for all skill levels
-
 ## :material-email: Contact & Support
 
 ### :material-earth: NEON Airborne Observation Platform
@@ -74,8 +65,6 @@ We believe in making scientific tools and knowledge accessible to all. This repo
 !!! info "Development Partner"
 
     **Website:** *https://contact.spatialbytes.work/*
-
-    **Contact:** *Information Available Soon*
 
 ---
 
